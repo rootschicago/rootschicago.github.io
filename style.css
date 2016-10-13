@@ -2,4 +2,6 @@
   position: fixed; /* or absolute */
   top: calc(50% - 200px);
   left: calc(50% - 189px);
+  display: block;
+  text-align: center;
 }
