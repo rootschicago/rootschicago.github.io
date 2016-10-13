@@ -2,4 +2,8 @@
   position: fixed; /* or absolute */
   top: calc(50% - 400px);
   left: calc(50% - 377px);
+  max-width: 90%;
+  max-height: 90%;
+  height: auto;
+  width: auto;
 }
