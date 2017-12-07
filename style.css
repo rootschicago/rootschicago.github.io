@@ -1,8 +1,8 @@
 #logo{
   position: fixed; /* or absolute */
-  height: 5em;
+  height: 10em;
   width: 10em;
-  top: calc(50% - 2.5em);
+  top: calc(50% - 5em);
   left: calc(50% - 5em);
   display: block;
   text-align: center;
