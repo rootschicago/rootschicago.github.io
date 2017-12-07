@@ -16,7 +16,7 @@ h1{
    -moz-user-select: none;
 }
 
-div{
+#one{
    position: fixed; 
    right: 10;
    bottom: -25;
