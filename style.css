@@ -7,3 +7,17 @@
   display: block;
   text-align: center;
 }
+
+h1{
+   color: #e5e5e5; 
+   text-shadow: 1px .5px .75px #fff;
+   userSelect: none;
+   -webkit-user-select: none;
+   -moz-user-select: none;
+}
+
+div{
+   position: fixed; 
+   right: 10;
+   bottom: -25;
+}
