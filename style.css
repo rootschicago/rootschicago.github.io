@@ -1,7 +1,9 @@
 #logo{
   position: fixed; /* or absolute */
-  top: calc(50% - 200px);
-  left: calc(50% - 189px);
+  height: 5em;
+  width: 10em;
+  top: calc(50% - 2.5em);
+  left: calc(50% - 5em);
   display: block;
   text-align: center;
 }
